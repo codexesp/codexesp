@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexesp&label=Profile%20views&color=0e75b6&style=flat" alt="codexesp" /> </p>
-<p align="left"> <a href="https://camo.githubusercontent.com/021be3ef05eff2794aeda5188abe1f70040c548d5e1502665cd06e3d1aa193be/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d372672616e6b3d5353532c53532c532c4141412c41412c412c422c43" alt="codexesp" /></a> </p>
+<p align="left"<href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="codexesp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
