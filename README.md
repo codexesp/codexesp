@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ESP](EXtrasensoryperceptionesphere.github.io)
+- 🔭 I’m currently working on [ESP](extrasensoryperceptionesphere.github.io)
 
 - 🌱 I’m currently learning **Python FullStack**
 
-- 👯 I’m looking to collaborate on [ESP👨‍💻](eXtrasensoryperceptionesphere.github.io)
+- 👯 I’m looking to collaborate on [ESP👨‍💻](extrasensoryperceptionesphere.github.io)
 
-- 🤝 I’m looking for help with [EXtrasensoryperception](eXtrasensoryperceptionesphere.github.io)
+- 🤝 I’m looking for help with [EXtrasensoryperception](extrasensoryperceptionesphere.github.io)
 
 - 📫 How to reach me :**anandugopan.github@gmail.com**,
 - **itzz_crypto_currency__**
